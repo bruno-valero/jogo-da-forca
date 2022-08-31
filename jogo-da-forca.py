@@ -224,6 +224,7 @@ ___________________'''
                 self.vitoria = True
             
     def f_vitoria(self):
+        from time import sleep
         print(f'''
         Parabens! Voce esta livre.
         ------------------------------------------
@@ -233,8 +234,18 @@ ___________________'''
         ------------------------------------------
         {self.f_display_forca()}
         DESTA VEZ!''')
+        sleep(5)
+        print('''
+
+
+Pressione ENTER!''')
+        input()
+        print('Obrigado por jogar!!!')
+        print('finalizando...')
+        sleep(5)
 
     def f_morte(self):
+        from time import sleep
         print(f'''
         SUAS CHANCES ACABARAM!!!!
         ------------------------------------------
@@ -246,7 +257,16 @@ ___________________'''
         
         A palavra era {self.palavra_chave.upper()}
 
-        MORTE PELA FORCA!''')
+        MORTE PELA FORCA!''')        
+        sleep(5)
+        print('''
+
+
+Pressione ENTER!''')
+        input()
+        print('Obrigado por jogar!!!')
+        print('finalizando...')
+        sleep(5)
 
     def f_play(self):
         from time import sleep
