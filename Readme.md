@@ -21,4 +21,13 @@ ___________________
 
 O jogo consiste em obrigar o voluntário a adivinhar uma palavra selecionada aleatoriamente pelo programa, a pessoa deve digitar letra por letra, caso acerte, a letra será adicionada à palavra oculta, caso erre, uma parte de seu corpo aparecerá na forca. Quando todo seu corpo estiver lá, a pessoa será sentenciada à morte e o jogo acabará.
 
+### Quer jogar?
+
+Logo acima você verá 5 arquivos, dentre eles, dois se chamam jogo-da-forca, se quiser apenas ver o código, basta clicar no arquivo com a extensão de python .py (jogo-da-forca.py).
+
+Caso queira jogar, existem duas formas de fazê-lo, onde a primeira se resume em baixar o arquivo executável (jogo-da-forca.exe) no seu computador e dar dois clickes sobre ele.
+
+A segunda forma é primeiro se sertificar de que você tem o python instalado no seu computador, depois copiar o código, colar num editor de texto e salvar o arquivo com a externção .py (exemplo: meuarquivo.py) em algum diretório (pasta) do seu computador, em seguida abra o Prompt de Comando (CMD) e se direcione até o diretório em que salvou o arquivo, então digite o comando python e o nome do seu arquivo junto com sua extensão (exemplo: python meuarquivo.py), dessa forma o código será executado e você poderá jogar o Jogo da Forca.
+
+
 BOA SORTE!!!
