@@ -25,9 +25,9 @@ O jogo consiste em obrigar o voluntário a adivinhar uma palavra selecionada ale
 
 Logo acima você verá 5 arquivos, dentre eles, dois se chamam jogo-da-forca, se quiser apenas ver o código, basta clicar no arquivo com a extensão de python .py (jogo-da-forca.py).
 
-Caso queira jogar, existem duas formas de fazê-lo, onde a primeira se resume em baixar o arquivo executável (jogo-da-forca.exe) no seu computador e dar dois clickes sobre ele.
+Caso queira jogar, existem duas formas de fazê-lo, onde a primeira se resume em baixar o arquivo executável (jogo-da-forca.exe) em um ditretório (pasta) do seu computador, juntamente com os dois arquivos (frutas.txt, nomes.tx), pois é desses arquivos que o programa vai puxar as palavras do Jogo da Forca, e então basta dar dois clickes sobre o executável (jogo-da-forca.exe).
 
-A segunda forma é primeiro se sertificar de que você tem o python instalado no seu computador, depois copiar o código, colar num editor de texto e salvar o arquivo com a externção .py (exemplo: meuarquivo.py) em algum diretório (pasta) do seu computador, em seguida abra o Prompt de Comando (CMD) e se direcione até o diretório em que salvou o arquivo, então digite o comando python e o nome do seu arquivo junto com sua extensão (exemplo: python meuarquivo.py), dessa forma o código será executado e você poderá jogar o Jogo da Forca.
+A segunda forma é primeiro se sertificar de que você tem o python instalado no seu computador, depois copiar o código, colar num editor de texto e salvar o arquivo com a externção .py (exemplo: meuarquivo.py) em algum diretório (pasta) do seu computador, juntamente com os dois arquivos (frutas.txt, nomes.tx), pois é desses arquivos que o programa vai puxar as palavras do Jogo da Forca, em seguida abra o Prompt de Comando (CMD) e se direcione até o diretório em que salvou os arquivos, então digite o comando python e o nome do seu arquivo junto com sua extensão (exemplo: python meuarquivo.py), dessa forma o código será executado e você poderá jogar o Jogo da Forca.
 
 
 BOA SORTE!!!
